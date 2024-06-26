@@ -13,7 +13,8 @@ Summer Investment Analyst (AI PortCos) @ Anzu Capital
 - Led internal optimization projects including product demos and outbound automation software.
 
 Summer Intern @ Hillbot Inc.
-- Working on embodied AI...
+- Working on embodied AI
+- More coming...
 
 ### Research
 James Hou, and Susu Xu. (2022). Near-real-time Seismic Human Fatality Information Retrieval from Social Media with Few-shot Large-Language Models. The 4th Workshop on Continual and Multimodal Learning for Internet of Things (CML-IOT 2022). https://dl.acm.org/doi/abs/10.1145/3560905.3568431
