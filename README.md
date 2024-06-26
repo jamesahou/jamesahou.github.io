@@ -17,7 +17,7 @@ Summer Intern @ Hillbot Inc.
 ## Research
 James Hou, and Susu Xu. (2022). Near-real-time Seismic Human Fatality Information Retrieval from Social Media with Few-shot Large-Language Models. The 4th Workshop on Continual and Multimodal Learning for Internet of Things (CML-IOT 2022). [link](https://dl.acm.org/doi/abs/10.1145/3560905.3568431)
 
-James Hou, Valentina L. Kouznetsova, and Igor F. Tsigelny. Calming the Storm: Identifying Multi-Cytokine Inhibiting Drugs with Machine Learning for COVID-19 Induced Cytokine Storms. Microbiol Infect Dis. 2022; 6(1): 1-7. https://www.scivisionpub.com/pdfs/calming-the-storm-identifying-multicytokine-inhibiting-drugs-with-machine-learning-for-covid19-induced-cytokine-storms-2075.pdf
+James Hou, Valentina L. Kouznetsova, and Igor F. Tsigelny. Calming the Storm: Identifying Multi-Cytokine Inhibiting Drugs with Machine Learning for COVID-19 Induced Cytokine Storms. Microbiol Infect Dis. 2022; 6(1): 1-7. [link](https://www.scivisionpub.com/pdfs/calming-the-storm-identifying-multicytokine-inhibiting-drugs-with-machine-learning-for-covid19-induced-cytokine-storms-2075.pdf)
 
 Ding Zheng, James Hou, and Zhuowen Tu. “Point Cloud Recognition with Position-to-Structure Attention Transformers,” arXiv preprint arXiv:2210.02030 [cs.CV]. [link](https://arxiv.org/abs/2210.02030.)
 
