@@ -41,7 +41,7 @@ James Hou, Valentina L. Kouznetsova, and Igor F. Tsigelny. Calming the Storm: Id
 
 Ding Zheng, James Hou, and Zhuowen Tu. “Point Cloud Recognition with Position-to-Structure Attention Transformers,” arXiv preprint arXiv:2210.02030 [cs.CV]. [link](https://arxiv.org/abs/2210.02030.)
 
-Independently developed state-of-art technique to effectively debias AI language models to mitigate racial related biases through Adapter and loss based methods. Preprint here, [link]()
+Independently developed state-of-art technique to effectively debias AI language models to mitigate racial related biases through Adapter and loss based methods. Preprint here, [link](https://github.com/jamesahou/jamesahou.github.io/blob/d980a5b4a4d87efd37b3d1b09b3e9fb8a1aa4885/static/Equalize-Dont-Minimize.pdf)
 
 
 ## Honors & Highlights
